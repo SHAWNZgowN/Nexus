@@ -81,4 +81,19 @@ To get started with **Nexus**, you will need the following tools:
 4. **Security:** The password is hashed before storage and validated during login, ensuring data security.
 
 
-<img src="https://github.com/user-attachments/assets/f8f784ed-96bb-48c7-98b6-1e06b9b9cba2" width="30%" height="60%"/>
+<img src="https://github.com/user-attachments/assets/10e3ba99-4e76-4a03-88f5-0ff064c8284e" width="30%" height="60%"/>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/36f97de2-e97c-48a9-b5d9-10f0a0735c8d" width="30%" height="60%"/>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/619dd80b-f2a1-429f-98ef-fe0dcbc8004a" width="30%" height="60%"/>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/2c12aacd-e761-4116-8eaf-5b72a9889f59" width="30%" height="60%"/>
+
+
+
