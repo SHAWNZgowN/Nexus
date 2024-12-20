@@ -79,3 +79,6 @@ To get started with **Nexus**, you will need the following tools:
 2. **Login:** After registration, the user can log in with their username and password.
 3. **Validation:** The system checks the credentials against the MySQL database and grants access if the information matches.
 4. **Security:** The password is hashed before storage and validated during login, ensuring data security.
+
+
+<img src="https://github.com/user-attachments/assets/f8f784ed-96bb-48c7-98b6-1e06b9b9cba2" width="30%" height="60%"/>
